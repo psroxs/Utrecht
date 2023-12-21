@@ -37,6 +37,7 @@ img{
     margin-right: 5px;
     width:100%;
     max-width: 280px;
+    height: auto;
     padding: 0px 0px 10px 10px;
 }
 [class*="col-"]{
