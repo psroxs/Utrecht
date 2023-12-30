@@ -1,6 +1,7 @@
 body{
     width:100%;
     font-family:'Courier New', Courier, monospace;
+    font-size:calc(12px + 1.5vw);
     background-color: gray;
     padding: 10px;
     font-size:1vw;
