@@ -39,10 +39,10 @@ img{
     vertical-align: bottom;
     width:100%;
     height:auto;
-    margin: 0px 10px 50px 20px;
+    margin: 0px 10px 10px 20px;
     border-color: black;
     border-style: solid;
-    border-size: 0,5vw;
+    border-width: 0,1vw;
 }
 @media only screen and (min-width: 600px) {
     img{
@@ -88,7 +88,7 @@ img{
 .attracties{
     background-color: silver;
     background-size: cover;
-    padding: 5px 10px 5px 20px;
+    padding: 5px 10px 20px 20px;
     width: 100%;
     height:min-content;
 }
