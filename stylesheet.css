@@ -39,7 +39,7 @@ img{
     vertical-align: bottom;
     width:100%;
     height:auto;
-    padding: 10px;
+    padding: 10px 10px 10px 20px;
 }
 @media only screen and (min-width: 600px) {
     img{
