@@ -75,7 +75,7 @@ img{
     width: 100%;
     min-height: 200px;
     background-image: url(images/Utrecht2.jpg);
-    background-size:cover;
+    background-size:100%;
     background-repeat: no-repeat;
     background-position: center;   
 }
