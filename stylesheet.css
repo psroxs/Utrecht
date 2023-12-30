@@ -39,10 +39,10 @@ img{
     vertical-align: bottom;
     width:100%;
     height:auto;
-    margin: 0px 10px 15px 20px;
+    margin: 0px 10px 20px 20px;
     border-color: black;
     border-style: solid;
-    border-size: 1vw;
+    border-size: 0,5vw;
 }
 @media only screen and (min-width: 600px) {
     img{
