@@ -65,7 +65,7 @@ img{
 .header{
     height: auto;
     width: 100%;
-    min-height: 100px;
+    min-height: 300px;
     background-image: url(images/Utrecht2.jpg);
     background-size:100%;
     background-repeat: no-repeat;
