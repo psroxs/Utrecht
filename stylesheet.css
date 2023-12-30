@@ -87,6 +87,7 @@ img{
 }
 .attracties{
     background-color: silver;
+    background-size: cover;
     padding: 5px 10px 5px 20px;
     width: 100%;
     height:min-content;
