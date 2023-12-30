@@ -35,11 +35,10 @@ ul{
         padding: 0px 10px 0px 10px;}
     }
 img{
-    float:left;
+    float:right;
     vertical-align: bottom;
     width:100%;
     height:auto;
-    max-width: 200px;
     padding: 0px 10px 10px 10px;
 }
 [class*="col-"]{
