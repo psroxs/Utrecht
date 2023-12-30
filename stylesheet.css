@@ -1,7 +1,7 @@
 body{
     width:100%;
     font-family:'Courier New', Courier, monospace;
-    font-size:calc(12px + 1.5vw);
+    font-size:calc(11px + 1.5vw);
     background-color: gray;
     padding: 10px;
 }
@@ -10,12 +10,11 @@ body{
         background-color:black;
         font-size:1vw;}
     }
-
 h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     background-color:black;
-    font-size:5vw;
+    font-size: calc(16px + 5vw);
     width: 100%;
     text-align: center;   
     display: block;
@@ -23,7 +22,7 @@ h1{
     margin-right: auto;
     Opacity: 0.5;}
 h3{
-    font-size:2vw;
+    font-size:calc(14px + 2vw);
 }
 ul{
     list-style-type: circle;
